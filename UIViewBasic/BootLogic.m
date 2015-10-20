@@ -19,7 +19,11 @@
                                     @{TITLE: @"Basic View", CLASS: @"BasicView"},
                                     @{TITLE: @"Chess", CLASS: @"ChessView"},
                                     @{TITLE: @"Campfire", CLASS: @"CampFire"},
-                                    @{TITLE: @"Nested Squares", CLASS: @"NestedSquares"}
+                                    @{TITLE: @"Nested Squares", CLASS: @"NestedSquares"},
+                                    @{TITLE: @"Flying Bird", CLASS: @"FlyingBird"},
+                                    @{TITLE: @"Swing Ship", CLASS: @"SwingShip"},
+                                    @{TITLE: @"Star Field", CLASS: @"StarField"}
+
 
                                     
                           ]};
